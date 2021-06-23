@@ -1,0 +1,44 @@
+h1 {
+ font-family: 'Poppins';
+}
+
+p {
+ font-family: 'Poppins';
+ font-size: 22px;
+}
+
+body{
+ margin: 0;
+ padding: 0;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ background-color: #1cc79d;
+ color: white;
+ position: fixed;
+ width: 100%;
+}
+
+li {
+ font-family: 'Poppins';
+ float: left;
+}
+
+li a {
+ display: block;
+ padding: 18px 16px;
+ text-decoration: none;
+ color: white;
+}
+
+li a:hover {
+ background-color: #555;
+}
+
+.l0 {
+ font-weight: 600;
+ font-size: 40px;
+}

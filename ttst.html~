@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+body {
+ background-image: url('module1.jpg');
+}
+</style>
+</head>
+<body>
+<h1>Hello World!</h1>
+<p><img src='trans.png'></p>
+<p><img src='tbar.png' width='500' height='17'></p>
+<p><img src='tbar500.png' height='17'></p>
+<p><img src='tbar800.png' height='16'></p>
+</body>
+</html>
