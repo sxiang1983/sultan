@@ -50,6 +50,7 @@ li a:hover {
  font-family: 'Poppins';
  font-weight: 600;
  font-size: 15px;
+ color: #555555;
 }
 
 .Q {
@@ -62,4 +63,25 @@ li a:hover {
  font-family: 'Poppins';
  font-weight: 400;
  font-size: 16px;
+}
+
+input[type="text"] {
+ font-family: 'Arial';
+ font-weight: 400;
+ font-size: 15px;
+ padding: 10px;
+} 
+
+input[type=submit] {
+ width: 100px;
+ background-color: #3ba1da;
+ font-family: 'Poppins';
+ font-weight: 400;
+ font-size: 15px;
+ color: #ffffff;
+ margin: 0;
+ opacity: 1;
+ padding: 14px;
+ border: none;
+ border-radius: 4px;
 }
