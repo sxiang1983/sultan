@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
- margin-left: 30px;
+ margin-left: 200px;
 }
 
 ul {
@@ -62,10 +62,11 @@ li a:hover {
 .A {
  font-family: 'Poppins';
  font-weight: 400;
- font-size: 16px;
+ font-size: 15px;
 }
 
 input[type="text"] {
+ width: 450px;
  font-family: 'Arial';
  font-weight: 400;
  font-size: 15px;
@@ -73,7 +74,7 @@ input[type="text"] {
 } 
 
 input[type=submit] {
- width: 100px;
+ width: 215px;
  background-color: #3ba1da;
  font-family: 'Poppins';
  font-weight: 400;
@@ -84,4 +85,16 @@ input[type=submit] {
  padding: 14px;
  border: none;
  border-radius: 4px;
+}
+
+input[type=submit]:hover {
+ background-color: #44b0ec;
+}
+
+a:link {
+ text-decoration: none;
+}
+
+a:hover {
+ text-decoration: underline;
 }

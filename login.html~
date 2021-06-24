@@ -7,13 +7,15 @@
 <ul>
  <li class="l0">iTx ADHD</li>
  <li style="float:right"><a href="contact.html">Contact</a></li>
+ <li style="float:right"><a href="register.html">Register</a></li>
  <li style="float:right"><a href="login.html">Login</a></li>
 </ul>
 <h1><br><br>Login</h1>
 <form action="login.php" method="post">
 <p class="B">Username<br><input type="text" name="user"></p>
 <p class="B">Password<br><input type="text" name="pass"></p>
-<input type="submit" value="Login">
+<p class="B"><input type="submit" value="Login"></p>
+<p class="B"><a href="reset.html">Forgot your password?</a></p>
 </form>
 </body>
 </html>
