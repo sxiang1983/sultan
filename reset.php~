@@ -5,7 +5,7 @@
 <meta content="text/html" http-equiv="Content-Type">
 <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Roboto+Condensed%3A300%2C400%2C600%2C700%2C800%2C900%7CRoboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i%7CAssistant%3A200%2C300%2C400%2C600%2C700%2C800%7CPoppins%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i&#038;ver=5.5.1' type='text/css' media='all' />
 <link rel="stylesheet" href="itxx.css">
-<title>Contact &#8211; iTx ADHD</title>
+<title>Password Reset &#8211; iTx ADHD</title>
 </head>
 <body>
 <ul>
@@ -14,6 +14,7 @@
  <li style="float:right"><a href="register.html">Register</a></li>
  <li style="float:right"><a href="login.html">Login</a></li>
 </ul>
-<h1><br><br>David and Alex, two shrinks from SHN!</h1>
+<h1><br><br>Password Reset</h1>
+<p class="Q">We have sent you a password reset link to your e-mail. Please check your inbox.</p>
 </body>
 </html>
